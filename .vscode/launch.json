@@ -1,0 +1,32 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Example (Pick Device)",
+      "request": "launch",
+      "type": "dart",
+      "program": "example/lib/main.dart"
+    },
+    {
+      "name": "Example (Linux)",
+      "request": "launch",
+      "type": "dart",
+      "program": "example/lib/main.dart",
+      "deviceId": "linux"
+    },
+    {
+      "name": "Example (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "program": "example/lib/main.dart",
+      "deviceId": "chrome"
+    },
+    {
+      "name": "Example (Android Emulator)",
+      "request": "launch",
+      "type": "dart",
+      "program": "example/lib/main.dart",
+      "deviceId": "emulator-5554"
+    }
+  ]
+}
