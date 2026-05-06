@@ -18,7 +18,7 @@ enum SmartToastStyle {
 enum SmartDialogStyle { 
   /// Standard dialog with title + message + buttons
   standard,
-
+// anything 
   /// Dialog with large icon/image at top (floating header style)
   withHeader,
 

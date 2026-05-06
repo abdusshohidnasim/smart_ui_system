@@ -3,5 +3,4 @@ enum SmartUIPosition {
   top,
   center,
   bottom,
-  
 }
