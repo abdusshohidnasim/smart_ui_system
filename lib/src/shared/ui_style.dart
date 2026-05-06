@@ -5,13 +5,13 @@ enum SmartToastStyle {
   toast,
 
   /// Material snackbar at bottom
-  snackbar,
+  snackbar, 
 
   /// Full-width banner at top
-  bannerTop,
+  bannerTop, 
 
   /// Full-width banner at bottom
-  bannerBottom,
+  bannerBottom, 
 }
 
 /// Dialog visual style.
