@@ -1,7 +1,9 @@
 name: smart_ui_system
 description: A fully customizable Flutter UI package — beautiful toasts, dialogs, bottom sheets, and more. Fully customizable for any app.
-version: 0.0.1
-homepage: https://github.com/yourusername/smart_ui_system
+version: 0.0.2
+homepage: https://github.com/abdusshohidnasim/smart_ui_system
+repository: https://github.com/abdusshohidnasim/smart_ui_system
+issue_tracker: https://github.com/abdusshohidnasim/smart_ui_system/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
