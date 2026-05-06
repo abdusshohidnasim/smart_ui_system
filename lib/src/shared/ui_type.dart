@@ -8,7 +8,7 @@ enum SmartUIType {
 
   /// Blue — info/neutral
   info,
-
+  // Yellow — warning/caution
   /// Orange — warning/caution
   warning,
 
