@@ -15,7 +15,7 @@ enum SmartToastStyle {
 }
 
 /// Dialog visual style.
-enum SmartDialogStyle {
+enum SmartDialogStyle { 
   /// Standard dialog with title + message + buttons
   standard,
 
